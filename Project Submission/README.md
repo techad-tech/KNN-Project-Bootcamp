@@ -1,12 +1,12 @@
 # PLEASE SUBMIT CAREFULLY
 General Information of the bootcamp repository:
 * ----------| KNN-Project Bootcamp
-* -------------------| Bootcamp
-* -------------------| Project Submisson
-* ------------------------| Your Name 1
-* * --------------------------| Project.ipynb
-  * --------------------------| Readme.md
-  * --------------------------| Folder Asset and Images 
+* * -------------------| Bootcamp
+* * -------------------| Project Submisson
+* * ------------------------| Your Name 1
+* * * --------------------------| Project.ipynb
+  * * --------------------------| Readme.md
+  * * --------------------------| Folder Asset and Images 
 * ------------------------| Your Name 2
 * ------------------------| Your Name 3
 * ------------------------| Your Name 4
