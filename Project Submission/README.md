@@ -3,13 +3,13 @@ General Information of the bootcamp repository:
 * ----------| KNN-Project Bootcamp
 * * -------------------| Bootcamp
 * * -------------------| Project Submisson
-* * ------------------------| Your Name 1
-* * * --------------------------| Project.ipynb
-  * * --------------------------| Readme.md
-  * * --------------------------| Folder Asset and Images 
-* ------------------------| Your Name 2
-* ------------------------| Your Name 3
-* ------------------------| Your Name 4
+* * * ------------------------| Your Name 1
+* * * * --------------------------| Folder Asset and Images 
+  * * * --------------------------| Project.ipynb
+  * * * --------------------------| Readme.md
+* * * ------------------------| Your Name 2
+* * * ------------------------| Your Name 3
+* * * ------------------------| Your Name 4
   
 # List of Submission 
 (Please Update this Readme.md after you Submit your project by updating your name in the table below:)
