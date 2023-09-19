@@ -13,6 +13,6 @@ General Information of the bootcamp repository:
 
 | No | Name  | Email |IG | Status |
 |:--:|:-------------:|:-------------:|:-----:|:-----:|
-| 1| Your Name 1      | yourname1@gmail.com     | @yourIG1 | ✅ |
+| 1| Your Name 1      | yourname1@gmail.com     | @yourIG1 | Done |
 | 2| Your Name 2      | yourname1@gmail.com     | @yourIG2 | ✅ |
 | 3| Your Name 3     | yourname1@gmail.com      | @yourIG3 | ✅ |
