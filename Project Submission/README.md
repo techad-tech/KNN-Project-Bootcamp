@@ -1,8 +1,9 @@
-# Bootcamp Information
+# PLEASE SUBMIT CAREFULLY
 General Information of the bootcamp:
-* Theory    : Saturday-Sunday, 16-17 September 2023
-* Time      : 14.00 - 16.00 WIB (GMT+7)
-* Location  : Zoom Meeting (https://chula.zoom.us/j/91645645813?pwd=NUpGdXhhV3crVXRJUHFmQnJoRnpXUT09)
+---------- KNN-Project Bootcamp
+  |------- Bootcamp
+  |------- Project Submisson
+    
 
 # KNN-Overview
 This is the repository for Project Submission  of the Machie Learning bootcamp.
