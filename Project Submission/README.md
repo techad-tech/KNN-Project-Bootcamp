@@ -1,8 +1,8 @@
 # PLEASE SUBMIT CAREFULLY
 General Information of the bootcamp repository:
 * ----------| KNN-Project Bootcamp
-* ---------------| Bootcamp
-* ---------------| Project Submisson
+* -------------------| Bootcamp
+* -------------------| Project Submisson
     
 
 # KNN-Overview
