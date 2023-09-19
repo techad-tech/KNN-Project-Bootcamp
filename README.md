@@ -1,4 +1,10 @@
-# KNN-Project-Bootcamp
+# Bootcamp Information
+General Information of the bootcamp:
+* Theory    : Saturday-Sunday, 16-17 September 2023
+* Time      : 14.00 - 16.00 WIB (GMT+7)
+* Location  : Zoom Meeting (https://chula.zoom.us/j/91645645813?pwd=NUpGdXhhV3crVXRJUHFmQnJoRnpXUT09)
+
+# KNN-Overview
 This is the repository for Project Submission  of the Machie Learning bootcamp.
 KNN is one of the model used in the several projects based on the machine learning approach. 
 
