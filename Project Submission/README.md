@@ -3,33 +3,16 @@ General Information of the bootcamp repository:
 * ----------| KNN-Project Bootcamp
 * -------------------| Bootcamp
 * -------------------| Project Submisson
-    
+* ------------------------| Your Name 1 
+* ------------------------| Your Name 2
+* ------------------------| Your Name 3
+* ------------------------| Your Name 4
+  
+# List of Submission 
+(Please Update this Readme.md after you Submit your project by updating your name in the table below:)
 
-# KNN-Overview
-This is the repository for Project Submission  of the Machie Learning bootcamp.
-KNN is one of the model used in the several projects based on the machine learning approach. 
-
-![alt text](https://miro.medium.com/v2/resize:fit:720/format:webp/1*3SwcOCUyVdGauhHrHvOaLA.png)
-
-
-# Follow this readme for your Project Submission with scoping as follow
-* Your Personal information (Name & Email)
-* Markdown in notebook file (.ipynb)
-* Theory
-* Clear step in the notebook file (.ipynb)
-* Upload to the forlder "Project Submission"
-* Create Folder with you name
-
-
-# Create your own README.md as follow this example:
-
-Hello,
-I am **Aziz**, I participate Machine Learning Bootcamp held by Techad Academy. Gratefully, this is my project. 
-
-For any information needed, do not hesitate to discuss and learn together. 
-
-| Information  | Contain |
-| ------------- |:-------------:|
-| Name      | M Aziz    |
-| Email      | maziz@gmail.com     |
-| IG     | @azizgakpunyaig     |
+| No | Name  | Email |IG |
+|:--:|:-------------:|:-------------:|:-----|
+| 1| Your Name 1      | yourname1@gmail.com     | @yourIG1 |
+| 2| Your Name 2      | yourname1@gmail.com     | @yourIG2 |
+| 3| Your Name 3     | yourname1@gmail.com      | @yourIG3 |
