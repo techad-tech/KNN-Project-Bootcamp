@@ -29,6 +29,6 @@ For any information needed, do not hesitate to discuss and learn together.
 
 | Information  | Contain |
 | ------------- |:-------------:|
-| Name      | M Aziz    |
-| Email      | maziz@gmail.com     |
-| IG     | @azizgakpunyaig     |
+| Name      | Imam Syaukani    |
+| Email      | syaukaniikanis97@gmail.com     |
+| IG     | @imam_syaukani97     |
